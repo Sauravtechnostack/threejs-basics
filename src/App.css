@@ -1,0 +1,8 @@
+body {
+  /* background-color: antiquewhite; */
+  background-color: black;
+}
+
+#three-canvas-container {
+  height: 100vh !important;
+}
